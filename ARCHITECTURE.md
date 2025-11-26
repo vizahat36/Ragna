@@ -2,6 +2,19 @@
 # Architecture
 This is a detailed explanation of how the app works
 
+#📸 Screenshots
+Input UI
+
+Upload a file + Ask a question
+
+<img src="./docs/input_ui.png" width="800">
+Output UI
+
+Answer generated + Relevant retrieved context
+(Add your actual screenshot here.)
+
+<img src="./docs/output_ui.png" width="800">
+
 When you run
 
 ```bash

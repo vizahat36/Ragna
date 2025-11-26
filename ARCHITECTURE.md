@@ -2,16 +2,20 @@
 # Architecture
 This is a detailed explanation of how the app works
 
-#📸 Screenshots
+# 📸 Screenshots
 Input UI
 
 Upload a file + Ask a question
+<img width="611" height="174" alt="image" src="https://github.com/user-attachments/assets/fb424d5e-ff86-4be5-987e-5ddc3ba24082" />
+<img width="688" height="276" alt="image" src="https://github.com/user-attachments/assets/631dcf57-0aa4-425c-b3ae-aee83c46a53c" />
 
-<img src="./docs/input_ui.png" width="800">
+
+
 Output UI
 
 Answer generated + Relevant retrieved context
-(Add your actual screenshot here.)
+<img width="1359" height="675" alt="image" src="https://github.com/user-attachments/assets/1e750620-8083-477b-ae69-c14d6823ded7" />
+
 
 <img src="./docs/output_ui.png" width="800">
 
